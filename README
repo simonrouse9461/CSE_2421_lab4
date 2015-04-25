@@ -1,0 +1,9 @@
+CSE 2421
+lab4
+Name: Chuhan Feng
+Time taken: 9 hr
+Problems encountered:
+The problem I met in this lab is the use of multi-dimentional array. I felt
+confused when I was establishing an array of 3 dimention in the begining.
+Finally, I realized that I have to use calloc on all 3 dimentions of the
+array.
